@@ -1,7 +1,7 @@
 <img src="screenshot.png" width=700 />
 
 ### Description:  
-There is no easy way to apply wallpaper to every desktop.  
+There is no easy way to apply wallpaper to every virtual desktop.  
 This utility takes care of that.  
   
 ### Usage:  
